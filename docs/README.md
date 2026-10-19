@@ -254,4 +254,4 @@ python maximum_urgency_first.py
 ```
 
 ---
-> **Course Project:** Embedded & Real-Time Systems — [نام دانشگاه] | Developed by [@your_username](https://github.com/your_username)
+> **Course Project:** Embedded & Real-Time Systems — Eshragh Higher Education Institute | Developed by [@atnc6](https://github.com/atnc6)
