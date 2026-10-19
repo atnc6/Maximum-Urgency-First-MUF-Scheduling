@@ -1,5 +1,5 @@
 # Maximum Urgency First (MUF) Real-Time Scheduler & Comparative Study (MUF vs. RM & EDF)
-### شبیه‌ساز زمان‌بند بی‌درنگ MUF و پژوهش مقایسه‌ای جامع با الگوریتم‌های RM و EDF
+### الگوریتم زمان‌بندی بیشترین فوریت اول MUF و پژوهش مقایسه‌ای جامع با الگوریتم‌های RM و EDF
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)
 ![Dependencies](https://img.shields.io/badge/Dependencies-None%20(Pure%20Python)-brightgreen.svg)
