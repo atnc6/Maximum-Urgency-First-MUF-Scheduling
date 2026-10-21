@@ -12,8 +12,8 @@
 
 ## 📄 Full Academic Research Monographs (PDF Documents) / دانلود فایل‌های کامل مقاله پژوهشی (نسخه PDF)
 The complete 11-chapter comparative research monographs (including high-resolution charts, architectural flowcharts, mathematical proofs, pseudocode, starvation/deadlock analysis, and multiprocessor evaluations) are available in the [`docs/`](./docs/) directory:
-* 📘 **[Download English Monograph (PDF)](<./docs/Comparative Analysis of MUF, RM, and EDF Real-Time Scheduling Algorithms (EN).pdf>)** — *Comprehensive Comparative Analysis of MUF vs. RM and EDF*
-* 📗 **[دانلود گزارش جامع پژوهشی به زبان فارسی (PDF)](<./docs/تحلیل و مقایسه جامع الگوریتم_های زمان_بندی بی_درنگ MUF، RM و EDF (FA).pdf>)** — *تحلیل و مقایسه جامع الگوریتم‌های زمان‌بندی MUF، RM و EDF*
+* 📘 **[Download English Monograph (PDF)](<./Comparative Analysis of MUF, RM, and EDF Real-Time Scheduling Algorithms (EN).pdf>)** — *Comprehensive Comparative Analysis of MUF vs. RM and EDF*
+* 📗 **[دانلود گزارش جامع پژوهشی به زبان فارسی (PDF)](<./تحلیل و مقایسه جامع الگوریتم_های زمان_بندی بی_درنگ MUF، RM و EDF (FA).pdf>)** — *تحلیل و مقایسه جامع الگوریتم‌های زمان‌بندی MUF، RM و EDF*
 ---
 
 <a name="english-documentation"></a>
