@@ -6,12 +6,12 @@
 ![Course](https://img.shields.io/badge/Course-Embedded%20%26%20Real--Time%20Systems-orange.svg)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey.svg)
 
-[**🇬🇧 English Documentation**](#english-documentation) **| [🇮🇷 مستندات فارسی](#مستندات-فارسی)**
+[**GB English Documentation**](#english-documentation) **| [IR مستندات فارسی](#مستندات-فارسی)**
 
 ---
 
 <a name="english-documentation"></a>
-## 🇬🇧 English Documentation
+## English Documentation
 
 ### 1. Title & Overview
 **Maximum Urgency First (MUF)** is a hybrid, preemptive real-time scheduling algorithm introduced by *David B. Stewart and Pradeep K. Khosla (1992)* for the Chimera II Real-Time Operating System. MUF combines the predictability of **fixed-priority scheduling** (like Rate Monotonic) with the high CPU utilization bound of **dynamic-priority scheduling** (like Earliest Deadline First and Least Laxity First).
@@ -157,7 +157,7 @@ muf-realtime-scheduler/
 ---
 
 <a name="مستندات-فارسی"></a>
-## 🇮🇷 مستندات فارسی
+## مستندات فارسی
 
 ### ۱. معرفی الگوریتم (Title & Overview)
 الگوریتم **Maximum Urgency First (بیشترین فوریت اول - MUF)** یک الگوریتم زمان‌بندی ترکیبی (Hybrid) و قبضه‌کننده (Preemptive) برای سیستم‌های عامل بی‌درنگ (RTOS) است که توسط *Stewart* و *Khosla* معرفی شد. این الگوریتم مزایای **اولویت‌بندی ایستا (Static Priority)** و **اولویت‌بندی پویا (Dynamic Priority)** را با هم ترکیب می‌کند تا هم از ۱۰۰٪ ظرفیت پردازنده استفاده کند و هم اجرای تسک‌های حیاتی (Critical Tasks) را در شرایط بحرانی تضمین نماید.
