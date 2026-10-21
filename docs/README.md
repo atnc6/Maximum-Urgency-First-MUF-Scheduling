@@ -17,7 +17,7 @@ The complete 11-chapter comparative research monographs (including high-resoluti
 ---
 
 <a name="english-documentation"></a>
-## **GB** English Documentation
+## English Documentation
 
 ### 1. Introduction & Overview
 In **Hard Real-Time Operating Systems (RTOS)**, system correctness depends not only on the logical result of computation but also on the physical instant at which results are produced. Traditional real-time scheduling algorithms face a fundamental dilemma between **CPU utilization efficiency** and **overload predictability**:
@@ -178,7 +178,7 @@ muf-realtime-scheduler/
 ---
 
 <a name="مستندات-فارسی"></a>
-## 🇮🇷 مستندات فارسی
+## مستندات فارسی
 
 ### ۱. مقدمه و معرفی پژوهش (Introduction)
 در **سیستم‌های نهفته و بی‌درنگ (Embedded and Real-Time Systems)**، درستی عملکرد سیستم تنها به صحت منطقی محاسبات وابسته نیست، بلکه به **زمان تحویل خروجی پیش از فرارسیدن ددلاین (Deadline)** وابسته است. الگوریتم‌های زمان‌بندی کلاسیک با یک تضاد ذاتی میان **بهره‌وری پردازنده (CPU Utilization)** و **مقاومت در برابر اضافه‌بار (Overload Resilience)** روبرو هستند:
@@ -244,8 +244,9 @@ $$\text{Urgency}_i(t) = -\text{Laxity}_i(t) = t + R_i(t) - D_i$$
 
 ### ۶. راهنمای دانلود گزارش‌های کامل Word و نحوه اجرای کد
 تمامی فصول ۱۱گانه این تحقیق به همراه نمودارهای گرافیکی، فلوچارت، شبهکد و جداول کامل در پوشه [`docs/`](./docs/) قرار داده شده‌اند:
-* 📘 **[نسخه کامل انگلیسی (MUF_vs_RM_EDF_Comparative_Study_EN.docx)](./docs/MUF_vs_RM_EDF_Comparative_Study_EN.docx)**
-* 📗 **[نسخه کامل فارسی (MUF_vs_RM_EDF_Comparative_Study_FA.docx)](./docs/MUF_vs_RM_EDF_Comparative_Study_FA.docx)**
+* 📘 **[نسخه کامل انگلیسی (MUF_vs_RM_EDF_Comparative_Study_EN.docx)](<./Comparative Analysis of MUF, RM, and EDF Real-Time Scheduling Algorithms (EN).pdf>)**
+* 📗 **[نسخه کامل فارسی (MUF_vs_RM_EDF_Comparative_Study_FA.docx)](<./تحلیل و مقایسه جامع الگوریتم_های زمان_بندی بی_درنگ MUF، RM و EDF (FA).pdf>)**
+)**
 
 برای اجرای شبیه‌ساز پایتون در ترمینال:
 ```bash
