@@ -6,7 +6,7 @@
 ![Course](https://img.shields.io/badge/Course-Embedded%20%26%20Real--Time%20Systems-orange.svg)
 ![Documentation](https://img.shields.io/badge/Docs-Bilingual%20(EN%20%7C%20FA)%20%2B%20DOCX-purple.svg)
 
-**[🇬🇧 English Documentation](#english-documentation) | [🇮🇷 مستندات فارسی](#مستندات-فارسی)**
+**[GB English Documentation](#english-documentation) | [IR مستندات فارسی](#مستندات-فارسی)**
 
 ---
 
@@ -17,7 +17,7 @@ The complete 11-chapter comparative research monographs (including high-resoluti
 ---
 
 <a name="english-documentation"></a>
-## **🇬🇧** English Documentation
+## **GB** English Documentation
 
 ### 1. Introduction & Overview
 In **Hard Real-Time Operating Systems (RTOS)**, system correctness depends not only on the logical result of computation but also on the physical instant at which results are produced. Traditional real-time scheduling algorithms face a fundamental dilemma between **CPU utilization efficiency** and **overload predictability**:
