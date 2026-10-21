@@ -17,7 +17,7 @@ The complete 11-chapter comparative research monographs (including high-resoluti
 ---
 
 <a name="english-documentation"></a>
-## 🇬🇧 English Documentation
+## **🇬🇧** English Documentation
 
 ### 1. Introduction & Overview
 In **Hard Real-Time Operating Systems (RTOS)**, system correctness depends not only on the logical result of computation but also on the physical instant at which results are produced. Traditional real-time scheduling algorithms face a fundamental dilemma between **CPU utilization efficiency** and **overload predictability**:
