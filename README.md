@@ -15,7 +15,10 @@ The complete 10-chapter comparative research monographs (including high-resoluti
 * 📘 **[Download English Monograph (PDF)](./MUF_Synchronization_Semaphore_Monitor_Hybrid_Master_EN.pdf)** — *Design, Implementation, and Empirical Analysis of MUF Synchronization*
 * 📗 **[دانلود گزارش جامع پژوهشی به زبان فارسی (PDF)](./MUF_Synchronization_Semaphore_Monitor_Hybrid_Master_FA.pdf)** — *طراحی، پیاده‌سازی و تحلیل تجربی الگوریتم MUF تحت معماری‌های همگام‌سازی*
 ---
-
+<p align="center">
+  <img src="muf_architectures.jpg" alt="MUF Synchronization Architectures" width="850">
+</p>
+---
 <a name="english-documentation"></a>
 ## English Documentation
 
