@@ -1,13 +1,11 @@
-# 🎬 MUF Real-Time Scheduler Animations
-### انیمیشن‌های شبیه‌سازی و معرفی الگوریتم بیشترین فوریت اول (MUF)
+# MUF Real-Time Scheduler Animations
 
 Welcome to the videos branch! This section contains visual, keynote-style, and 3D educational animations demonstrating the mechanics of the **Maximum Urgency First (MUF)** algorithm and its advantages over RM and EDF.
 
-به شاخه انیمیشن‌ها خوش آمدید! در این بخش، ویدیوها و انیمیشن‌های مفهومی الگوریتم MUF و مقایسه آن با RM و EDF قرار داده شده است تا درک مکانیزم‌های زمان‌بندی به ساده‌ترین و جذاب‌ترین شکل ممکن صورت گیرد.
 
 ---
 
-## 🚀 1. MUF Quick Overview (10s Animation)
+## 1. MUF Quick Overview (10s Animation)
 **معرفی کوتاه و سریع مکانیزم MUF در ۱۰ ثانیه**
 
 *شبیه‌سازی و بررسی نحوه انتقال تسک‌های حیاتی و غیرحیاتی بر اساس فوریت و سستی به پردازنده.*
@@ -16,7 +14,7 @@ Welcome to the videos branch! This section contains visual, keynote-style, and 3
 
 ---
 
-## ⚖️ 2. The Scheduling Dilemma
+## 2. The Scheduling Dilemma
 **دوراهی زمان‌بندی: چالش‌های کلاسیک سیستم‌های بی‌درنگ**
 
 *معرفی سبک و خفن (Keynote Style) دوراهی انتخاب بین الگوریتم‌های RM و EDF و چرایی نیاز به یک معماری جدید.*
@@ -25,7 +23,7 @@ Welcome to the videos branch! This section contains visual, keynote-style, and 3
 
 ---
 
-## 💥 3. The Domino Effect & MUF Overload Protection
+## 3. The Domino Effect & MUF Overload Protection
 **اثر دومینو در EDF و بقای سیستم در اضافه‌بار ۱۰۰٪ با MUF**
 
 *نمایش بصری فاجعه اثر دومینو در زمان‌بندهای کلاسیک و چگونگی ایزوله شدن تسک‌های حیاتی توسط الگوریتم MUF در شرایط بحرانی.*
