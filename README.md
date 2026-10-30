@@ -19,6 +19,7 @@ The complete 10-chapter comparative research monographs (including high-resoluti
   <img src="muf_architectures.jpg" alt="MUF Synchronization Architectures" width="850">
 </p>
 ---
+
 <a name="english-documentation"></a>
 ## English Documentation
 
