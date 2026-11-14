@@ -8,8 +8,8 @@
 
 The complete 8-chapter comparative research monographs (including asymmetric shared-exclusive safety invariants, Dijkstra's three criteria, Reader-Preference vs. Fair Turnstile Semaphore solutions, Monitor condition broadcasts, architectural flowcharts, and multi-threaded benchmarks) are available for download:
 
-* 📘 [**Download English Monograph (PDF)**](./Readers_Writers_Comparative_Study_EN.PDF) — *Comprehensive Comparative Analysis of the Readers-Writers Synchronization Problem vs. Semaphore, Monitor, Dekker, and Peterson Algorithms*
-* 📗 [**دانلود گزارش جامع پژوهشی به زبان فارسی (PDF)**](./Readers_Writers_Comparative_Study_FA.PDF) — *تحلیل و مقایسه جامع مسئله همگام‌سازی خوانندگان و نویسندگان (Readers-Writers) با الگوریتم‌های Semaphore، Monitor، Dekker و Peterson*
+* 📘 [**Download English Monograph (PDF)**](./Readers_Writers_Comparative_Study_EN.pdf) — *Comprehensive Comparative Analysis of the Readers-Writers Synchronization Problem vs. Semaphore, Monitor, Dekker, and Peterson Algorithms*
+* 📗 [**دانلود گزارش جامع پژوهشی به زبان فارسی (PDF)**](./Readers_Writers_Comparative_Study_FA.pdf) — *تحلیل و مقایسه جامع مسئله همگام‌سازی خوانندگان و نویسندگان (Readers-Writers) با الگوریتم‌های Semaphore، Monitor، Dekker و Peterson*
 
 ---
 
