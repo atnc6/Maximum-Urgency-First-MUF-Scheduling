@@ -6,7 +6,7 @@
 ![Algorithms](https://img.shields.io/badge/Algorithms-MUF%20%7C%20MMUF%20%7C%20EMUF-brightgreen.svg)
 ![Language](https://img.shields.io/badge/Docs-Bilingual%20(EN%20%7C%20FA)-purple.svg)
 
-**[🇬🇧 English Literature Guide](#english-documentation) | [🇮🇷 راهنمای فارسی مقالات](#مستندات-فارسی)**
+**[ English Literature Guide](#english-documentation) | [IR راهنمای فارسی مقالات](#مستندات-فارسی)**
 
 ---
 
@@ -23,7 +23,7 @@ This repository serves as a curated academic reference archive tracing the theor
 ---
 
 <a name="english-documentation"></a>
-## 🇬🇧 English Documentation
+## English Documentation
 
 ### 1. Overview & Purpose of This Literature Archive
 In **Hard Real-Time Operating Systems (RTOS)**, classical scheduling theory historically divided into static-priority policies like **Rate Monotonic (RM)** (predictable under overload, but capped at $\approx 69.31\%$ utilization) and dynamic-priority policies like **Earliest Deadline First (EDF)** and **Least Laxity First (LLF)** ($100\%$ utilization, but prone to catastrophic Domino failures during transient overloads). 
@@ -87,7 +87,7 @@ muf-literature-archive/
 ---
 
 <a name="مستندات-فارسی"></a>
-## 🇮🇷 مستندات فارسی (راهنمای مقالات مرجع)
+##  مستندات فارسی (راهنمای مقالات مرجع)
 
 ### ۱. معرفی و هدف این مخزن (Literature Archive)
 این مخزن شامل مجموعه‌ای از مقالات مرجع و کلاسیک بین‌المللی پیرامون **الگوریتم زمان‌بندی بی‌درنگ Maximum Urgency First (MUF)** و نسخه‌های تکامل‌یافته آن (**MMUF** و **EMUF**) است. هدف از گردآوری این مقالات، مستندسازی سیر تحول تئوریک و عملی زمان‌بندهای ترکیبی (Hybrid Fixed/Dynamic Schedulers) برای مقابله با **اضافه‌بار گذرا (Transient Overload)**، کاهش **تعویض متن (Context Switch)** و تشخیص زودهنگام خطای ددلاین در سیستم‌های بی‌درنگ سخت است.
