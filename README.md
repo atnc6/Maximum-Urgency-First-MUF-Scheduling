@@ -254,4 +254,21 @@ python maximum_urgency_first.py
 ```
 
 ---
+
+### 📊 Execution Output: Module 2 — MUF vs. RM & EDF (Normal Load)
+*مقایسه عملکرد الگوریتم‌های MUF، RM و EDF و نمودار گانت آن‌ها در بار نرمال:*
+
+<p align="center">
+  <img src="output1_module2_rm_edf_muf_normal.jpg" alt="Module 2 MUF vs RM and EDF Normal Output" width="850">
+</p>
+
+<p align="center">
+  <img src="output2_module2_rm_edf_muf_normal.jpg" alt="Module 2 MUF vs RM and EDF Normal Output" width="850">
+</p>
+
+<p align="center">
+  <img src="output3_module2_rm_edf_muf_normal.jpg" alt="Module 2 MUF vs RM and EDF Normal Output" width="850">
+</p>
+
+---
 > **Course Project:** Embedded & Real-Time Systems — Eshragh Higher Education Institute | Developed by [@atnc6](https://github.com/atnc6)
