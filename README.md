@@ -123,4 +123,13 @@ muf-sync-architectures/
 
 ---
 
+### 🔄 Execution Output: Module 3 — Synchronized MUF (Semaphore, Monitor & Hybrid — 3 Tasks Normal)
+*خروجی همگام‌سازی ناحیه بحرانی در MUF با سمافور، مانیتور و معماری ترکیبی در بار سبک (۳ تسک):*
+
+<p align="center">
+  <img src="output_module3_sync_muf_normal.jpg" alt="Module 3 Synchronized MUF Normal Output" width="850">
+</p>
+
+---
+
 > **Course Project:** Embedded & Real-Time Systems — Eshragh Higher Education Institute | Developed by [@atnc6](https://github.com/atnc6)
