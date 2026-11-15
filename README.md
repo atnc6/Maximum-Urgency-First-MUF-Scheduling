@@ -188,4 +188,21 @@ git checkout 5-(MUF)-Real-Time-Scheduler-Using-Semaphore,-Monitor,-and-Hybrid-Sy
 ```
 
 ---
+
+### 🖥️ Execution Output: Module 1 — Core MUF Scheduler (Normal Load)
+*خروجی اجرای شبیه‌ساز اصلی MUF و نمودار گانت در شرایط بار نرمال (حالت عادی):*
+
+<p align="center">
+  <img src="output1_module1_muf_normal.jpg" alt="Module 1 Core MUF Normal Output" width="850">
+</p>
+
+<p align="center">
+  <img src="output2_module1_muf_normal.jpg" alt="Module 1 Core MUF Normal Output" width="850">
+</p>
+
+<p align="center">
+  <img src="output3_module1_muf_normal.jpg" alt="Module 1 Core MUF Normal Output" width="850">
+</p>
+
+---
 > **Course Project:** Embedded & Real-Time Systems — Eshragh Higher Education Institute | Developed by [@atnc6](https://github.com/atnc6)
