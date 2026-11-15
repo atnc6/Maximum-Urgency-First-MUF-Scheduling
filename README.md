@@ -175,4 +175,14 @@ $$(W(t) \le 1) \quad \text{AND} \quad (W(t) \cdot R(t) == 0)$$
 * **مصرف پردازنده:** پترسون و دکر در حالت انتظار **$۱۰۰.۰٪$** هسته CPU را اشغال می‌کنند؛ در حالی که سمافور و مانیتور با بردن نخ‌ها به حالت خواب، بار انتظار CPU را به **$۳.۲٪$** و **$۴.۱٪$** می‌رسانند.
 
 ---
+
+### 📚 Execution Output: Module 5 — Readers-Writers Synchronization (Normal Read/Write Load)
+*خروجی اجرای مسئله خوانندگان و نویسندگان و مقایسه هم‌روندی آن در بار عادی:*
+
+<p align="center">
+  <img src="output_module5_readers_writers_normal.jpg" alt="Module 5 Readers-Writers Normal Output" width="850">
+</p>
+
+---
+
 > **Course Project:** Operating Systems / Embedded & Real-Time Systems — Eshragh Higher Education Institute | Developed by [@atnc6](https://github.com/atnc6)
