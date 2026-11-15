@@ -7,7 +7,7 @@
 ![Course](https://img.shields.io/badge/Course-Embedded%20%26%20Real--Time%20Systems-orange.svg)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey.svg)
 
-[** GB English Documentation**](#english-documentation) **| [IR مستندات فارسی](#مستندات-فارسی)**
+[**GB English Documentation**](#english-documentation) **| [IR مستندات فارسی](#مستندات-فارسی)**
 
 ---
 
