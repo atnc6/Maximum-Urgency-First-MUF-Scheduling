@@ -199,4 +199,14 @@ Evaluated over $N = 10,000$ critical section acquisitions under contention:
 3. **استفاده از مانیتور:** در توسعه نرم‌افزارهای کاربردی چندنخی (جاوا، سی‌شارپ، C++) برای مدیریت بافرهای کران‌دار و شرایط منطقی پیچیده.
 
 ---
+
+### ⚙️ Execution Output: Module 4 — Concurrency Primitives (Peterson, Dekker, Semaphore & Monitor)
+*خروجی بنچمارک زنده الگوریتم‌های پترسون، دکر، سمافور و مانیتور در شرایط عادی:*
+
+<p align="center">
+  <img src="output_module4_primitives_normal.jpg" alt="Module 4 Concurrency Primitives Output" width="850">
+</p>
+
+---
+
 > **Course Project:** Operating Systems / Embedded & Real-Time Systems — Eshragh Higher Education Institute | Developed by [@atnc6](https://github.com/atnc6)
